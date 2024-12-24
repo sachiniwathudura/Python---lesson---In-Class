@@ -1,0 +1,3 @@
+John Doe,12345678,jone@gmail.com
+kate ferry,1235678,kate@gmail.com
+sachini,9875622,sachini@gmail.com
